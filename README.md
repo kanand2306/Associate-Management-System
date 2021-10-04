@@ -1,20 +1,54 @@
-# Associate-Management-System
-This project is to manage the database of an  educational institute which provides the courses in various domain.
-It consists of 3 files:
-1.  Dataset
-2.  PPT
-3.  Documentation of Commands
+# Associate Management System
 
+## Project Description
 
+The main aim of this project is to manage the database of an educational institute that provides courses in various domains. It consists of associate details like how many associates were attended for a demo, joined, enrolled for the courses like Bigdata, IoT, machine learning, artificial intelligence, etc. Whenever the administrator needs information about the associates, they should be able to fetch the required data.
 
-It consist of 4 tables:
-1. Master table: It consist of all the records with all the details of the associates.
-2. Demo table: It consist the list of students whose demo has been scheduled, demo done and demo not done.
-3. Enroll table: It consist of list of all the students who have been enrolled in any of the course.
-4. Account table: It consist of all the payment details of all the students who are enrolled in any of the course.
+## Technologies Used
 
+* HDFS
+* Hive
+* SQL
+* Hadoop
+* Cloudera5
+* Ubuntu 18.04
 
-Future Enhancements:
-1. Dividing enrolled students into batches.
-2. Including payment modes both online of offline, if online then using debit card, credit card, UPI or Internet Banking and if offline then by cash, cheque, demand draft, etc.
-3. List of students who have dropped from the institution.
+## Features
+
+List of features ready and TODOs for future development
+* Number of Distinct courses.
+* Number of courses enrolled by each student.
+* List of Students whose demo has been scheduled.
+* List of students whose demo has not been scheduled.
+* List of students who are done with their demo.
+* List of students who haven’t attended demo.
+* List of students who have enrolled in any of the course.
+* List of students who attended demo but not enrolled.
+* List of students whose demo was scheduled on Weekday’s.
+* List of students whose demo was scheduled on Weekend’s.
+* Number of male and female associates are there.
+* Maximum discount offered in respective course.
+* Minimum discount offered in respective course.
+* Total fee of all students
+* Total paid fees of all students
+* Fee details of enrolled students
+
+## Getting Started
+  
+
+> First download the dataset.
+> Read the Project Commands.docx for all the commands.
+> Create the hive table.
+> Import the dataset.
+> Run the queries.
+
+## Usage
+
+> After setup, go to Hive and run all the queries.
+
+## Contributors
+
+> Anand Kumar
+> Akhil
+> Soumya
+> Kavya Reddy
