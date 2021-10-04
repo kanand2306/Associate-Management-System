@@ -36,19 +36,19 @@ List of features ready and TODOs for future development
 ## Getting Started
   
 
-> First download the dataset.
-> Read the Project Commands.docx for all the commands.
-> Create the hive table.
-> Import the dataset.
-> Run the queries.
+* First download the dataset.
+* Read the Project Commands.docx for all the commands.
+* Create the hive table.
+* Import the dataset.
+* Run the queries.
 
 ## Usage
 
-> After setup, go to Hive and run all the queries.
+* After setup, go to Hive and run all the queries.
 
 ## Contributors
 
-> Anand Kumar
-> Akhil
-> Soumya
-> Kavya Reddy
+* Anand Kumar
+* Akhil
+* Soumya
+* Kavya Reddy
